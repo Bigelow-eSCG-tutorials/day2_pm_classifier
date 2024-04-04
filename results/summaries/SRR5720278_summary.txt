@@ -1,0 +1,13 @@
+Sequences:  999999
+Taxonomy assignments
+ Superkingdom: 464315 (46.43%)
+ Phylum: 460735 (46.07%)
+ Class: 356613 (35.66%)
+ Order: 339703 (33.97%)
+ Family: 327381 (32.74%)
+ Genus: 99386 (9.94%)
+ Species: 1101 (0.11%)
+Functional assignments
+ Function: 464828 (46.48%)
+ Non-hypothetical: 359710 (35.97%)
+ EC: 262001 (26.20%)
